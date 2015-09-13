@@ -21,5 +21,4 @@
 		</div>
 	</div>
 	
-
 @include('_include.frontend.footer')

@@ -84,8 +84,8 @@ class UsersController extends Controller
     {
         //
     }
-
-    public function getLogin(){
+    
+    public function getLogin($id){
         return view('users.frontend.login');
     }
 }
