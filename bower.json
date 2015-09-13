@@ -1,0 +1,23 @@
+{
+  "name": "unbun",
+  "version": "0.0.1",
+  "authors": [
+    "Dimas Satrio <dimassrio@gmail.com>"
+  ],
+  "main": "public/index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "adminlte#~2.3.0",
+    "bootstrap-sass": "~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0",
+    "holderjs": "~2.8.2",
+    "modernizr": "~2.8.3"
+  }
+}
